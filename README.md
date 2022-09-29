@@ -4,7 +4,7 @@ This repo is the official implementation of CVPR2019 paper "[All You Need Is a F
 
 ## Paper introduction
 
-![SSL](figures/SSL.png)
+![SSL](./figures/SSL.png)
 
 The comparison of Sparse Shift Layer (SSL) with other shift operations applied to feature maps.
 
